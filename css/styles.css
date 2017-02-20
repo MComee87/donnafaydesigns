@@ -1,0 +1,63 @@
+
+html {
+  background-image: url("https://MComee87.github.io/donnafaydesigns/images/background2.jpg");
+}
+
+body {
+  color: #815f3c;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding-top: 50px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2em;
+}
+
+sub {
+  color: #fff;
+}
+
+.navbar {
+  color: #815f3c;
+  background-color: #3e1c35;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: #3e1c35;
+  border-color: #000;
+}
+
+.btn-primary:hover {
+  background-color: #643859;
+}
+
+.btn-primary:active {
+  background-color: #cebed8;
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-md {
+  font-size: 2em;
+}
+
+.modal {
+  min-height: 550px;
+}
+
+footer {
+  background-color: #3e1c35;
+  bottom: 0px;
+}
+
+#item {
+  min-height: 250px;
+}
+
+
